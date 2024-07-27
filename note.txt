@@ -11,3 +11,8 @@ terminal -
 git terms 
 configuration - email user@gmail.com, username user123
 git init
+git add .
+git commit -m 'commit message'
+git branch -M
+git remote add repoURl
+git push -u origin main
