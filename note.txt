@@ -1,0 +1,13 @@
+Version Control - manage changes in files and documents 
+
+git- software / git bash
+
+github account - 
+
+terminologies 
+repository - folder for a particular project 
+terminal - 
+
+git terms 
+configuration - email user@gmail.com, username user123
+git init
